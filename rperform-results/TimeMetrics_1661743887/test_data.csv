@@ -1,0 +1,661 @@
+"","test_name","metric_name","status","metric_val","message","sha","date_time"
+"1","case-insensitive sort order","runtime (in seconds)","pass",0.0412116,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"2","case-insensitive sort order","runtime (in seconds)","pass",0.0395285,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"3","case-insensitive sort order","runtime (in seconds)","pass",0.0450348,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"4","test-utils.R","runtime (in seconds)","pass",0.0431928,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"5","test-utils.R","runtime (in seconds)","pass",0.0243368,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"6","test-utils.R","runtime (in seconds)","pass",0.0241077,"Merge 9c5c491e9","69a05867a704b263076a1fe759912750bda7dde4",2022-08-29 03:16:58
+"7","case-insensitive sort order","runtime (in seconds)","pass",0.0426427,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"8","case-insensitive sort order","runtime (in seconds)","pass",0.0417862,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"9","case-insensitive sort order","runtime (in seconds)","pass",0.0428761,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"10","test-utils.R","runtime (in seconds)","pass",0.0253545,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"11","test-utils.R","runtime (in seconds)","pass",0.023971,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"12","test-utils.R","runtime (in seconds)","pass",0.0245775,"update script","9c5c491e99fc3c16182eff802a0aeafe9c8bdf5f",2022-08-29 03:16:23
+"13","case-insensitive sort order","runtime (in seconds)","pass",0.0433335,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"14","case-insensitive sort order","runtime (in seconds)","pass",0.0414708,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"15","case-insensitive sort order","runtime (in seconds)","pass",0.0412992,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"16","test-utils.R","runtime (in seconds)","pass",0.0248365,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"17","test-utils.R","runtime (in seconds)","pass",0.0241529,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"18","test-utils.R","runtime (in seconds)","pass",0.0245579,"rperform test","1d3fd3c0f0bb5219db47815f499fcc4dadf89fae",2022-08-29 03:15:43
+"19","case-insensitive sort order","runtime (in seconds)","pass",0.0432583,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"20","case-insensitive sort order","runtime (in seconds)","pass",0.0416399,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"21","case-insensitive sort order","runtime (in seconds)","pass",0.0427937,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"22","test-utils.R","runtime (in seconds)","pass",0.0252877,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"23","test-utils.R","runtime (in seconds)","pass",0.0239871,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"24","test-utils.R","runtime (in seconds)","pass",0.0250228,"Surface unused ","c9696a61605059bed233f63fdccc2928a034fae6",2022-08-11 22:37:04
+"25","case-insensitive sort order","runtime (in seconds)","pass",0.0429104,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"26","case-insensitive sort order","runtime (in seconds)","pass",0.0403042,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"27","case-insensitive sort order","runtime (in seconds)","pass",0.0408321,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"28","test-utils.R","runtime (in seconds)","pass",0.0262402,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"29","test-utils.R","runtime (in seconds)","pass",0.024974,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"30","test-utils.R","runtime (in seconds)","pass",0.0252167,"Work on check()","37bfbd1ed73238bb8c39ad739e4ec2385447c723",2022-08-11 16:59:20
+"31","case-insensitive sort order","runtime (in seconds)","pass",0.041527,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"32","case-insensitive sort order","runtime (in seconds)","pass",0.0409571,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"33","case-insensitive sort order","runtime (in seconds)","pass",0.04253,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"34","test-utils.R","runtime (in seconds)","pass",0.0248761,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"35","test-utils.R","runtime (in seconds)","pass",0.0233436,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"36","test-utils.R","runtime (in seconds)","pass",0.0232262,"Use same defaul","35815992155867db87b2b1b1af6703856203f778",2022-08-09 19:02:46
+"37","case-insensitive sort order","runtime (in seconds)","pass",0.0437124,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"38","case-insensitive sort order","runtime (in seconds)","pass",0.0414296,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"39","case-insensitive sort order","runtime (in seconds)","pass",0.0419913,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"40","test-utils.R","runtime (in seconds)","pass",0.0255948,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"41","test-utils.R","runtime (in seconds)","pass",0.0248405,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"42","test-utils.R","runtime (in seconds)","pass",0.0251923,"Tie up loose en","a6c0775281e7cae551a6f79982d4f84f4fa058d5",2022-08-09 17:17:15
+"43","case-insensitive sort order","runtime (in seconds)","pass",0.0418562,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"44","case-insensitive sort order","runtime (in seconds)","pass",0.0406132,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"45","case-insensitive sort order","runtime (in seconds)","pass",0.040961,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"46","test-utils.R","runtime (in seconds)","pass",0.0249173,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"47","test-utils.R","runtime (in seconds)","pass",0.0244778,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"48","test-utils.R","runtime (in seconds)","pass",0.0244501,"Remove unused i","946e4a9daa70cd67ef32f41bb6bdde8fab47be6c",2022-08-09 02:14:11
+"49","case-insensitive sort order","runtime (in seconds)","pass",0.0450028,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"50","case-insensitive sort order","runtime (in seconds)","pass",0.0434725,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"51","case-insensitive sort order","runtime (in seconds)","pass",0.0461401,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"52","test-utils.R","runtime (in seconds)","pass",0.0248,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"53","test-utils.R","runtime (in seconds)","pass",0.0246295,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"54","test-utils.R","runtime (in seconds)","pass",0.0260389,"Focus the R Con","a7f407f82a639cadff37e60441412702acbc88ec",2022-08-05 15:52:03
+"55","case-insensitive sort order","runtime (in seconds)","pass",0.0444947,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"56","case-insensitive sort order","runtime (in seconds)","pass",0.0408377,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"57","case-insensitive sort order","runtime (in seconds)","pass",0.0422503,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"58","test-utils.R","runtime (in seconds)","pass",0.0271749,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"59","test-utils.R","runtime (in seconds)","pass",0.0262888,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"60","test-utils.R","runtime (in seconds)","pass",0.0263287,"Increment versi","e8f5585fcd901fba894be411b338aad15f1e77fe",2022-07-20 18:35:21
+"61","case-insensitive sort order","runtime (in seconds)","pass",0.0419593,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"62","case-insensitive sort order","runtime (in seconds)","pass",0.0396803,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"63","case-insensitive sort order","runtime (in seconds)","pass",0.0413896,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"64","test-utils.R","runtime (in seconds)","pass",0.0263676,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"65","test-utils.R","runtime (in seconds)","pass",0.0246687,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"66","test-utils.R","runtime (in seconds)","pass",0.0250595,"Rbuildignore su","021f744176b49bedb9280a493465a26ef1411099",2022-07-20 18:34:57
+"67","case-insensitive sort order","runtime (in seconds)","pass",0.0431953,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"68","case-insensitive sort order","runtime (in seconds)","pass",0.0407935,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"69","case-insensitive sort order","runtime (in seconds)","pass",0.0425493,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"70","test-utils.R","runtime (in seconds)","pass",0.0253671,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"71","test-utils.R","runtime (in seconds)","pass",0.0246126,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"72","test-utils.R","runtime (in seconds)","pass",0.0248311,"Increment versi","e191a1285afd954e9668eba7d238a8c716fb29bd",2022-07-20 17:06:43
+"73","case-insensitive sort order","runtime (in seconds)","pass",0.042578,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"74","case-insensitive sort order","runtime (in seconds)","pass",0.0400282,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"75","case-insensitive sort order","runtime (in seconds)","pass",0.0418953,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"76","test-utils.R","runtime (in seconds)","pass",0.0249051,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"77","test-utils.R","runtime (in seconds)","pass",0.024204,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"78","test-utils.R","runtime (in seconds)","pass",0.0239621,"Manually add th","0882c954b729fcbd417b70544e9501f9eb0261be",2022-07-20 16:57:26
+"79","case-insensitive sort order","runtime (in seconds)","pass",0.0425564,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"80","case-insensitive sort order","runtime (in seconds)","pass",0.0411952,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"81","case-insensitive sort order","runtime (in seconds)","pass",0.0426649,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"82","test-utils.R","runtime (in seconds)","pass",0.0252673,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"83","test-utils.R","runtime (in seconds)","pass",0.0236128,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"84","test-utils.R","runtime (in seconds)","pass",0.0239877,"revdepcheck::cl","46768ed007a2abec9af72b7a5a9245cab4295bcb",2022-07-20 16:55:57
+"85","case-insensitive sort order","runtime (in seconds)","pass",0.0445665,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"86","case-insensitive sort order","runtime (in seconds)","pass",0.0420881,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"87","case-insensitive sort order","runtime (in seconds)","pass",0.0428373,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"88","test-utils.R","runtime (in seconds)","pass",0.0251087,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"89","test-utils.R","runtime (in seconds)","pass",0.0247982,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"90","test-utils.R","runtime (in seconds)","pass",0.0243036,"Update cheatshe","7ba4828ef16dee30a8a4385d1efc25438983b94b",2022-07-20 15:02:22
+"91","case-insensitive sort order","runtime (in seconds)","pass",0.0429447,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"92","case-insensitive sort order","runtime (in seconds)","pass",0.0423377,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"93","case-insensitive sort order","runtime (in seconds)","pass",0.0432153,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"94","test-utils.R","runtime (in seconds)","pass",0.0252681,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"95","test-utils.R","runtime (in seconds)","pass",0.0245157,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"96","test-utils.R","runtime (in seconds)","pass",0.0245393,"Polish NEWS","a1d1c97e60bf3e8e2e73e4d1ff94aa53257f5d54",2022-07-20 14:53:05
+"97","case-insensitive sort order","runtime (in seconds)","pass",0.0441212,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"98","case-insensitive sort order","runtime (in seconds)","pass",0.0412879,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"99","case-insensitive sort order","runtime (in seconds)","pass",0.041225,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"100","test-utils.R","runtime (in seconds)","pass",0.0254801,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"101","test-utils.R","runtime (in seconds)","pass",0.0247001,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"102","test-utils.R","runtime (in seconds)","pass",0.0245874,"These options a","5118d06010a08263fd3d42ef12ee98e72a5059f7",2022-07-20 14:49:32
+"103","case-insensitive sort order","runtime (in seconds)","pass",0.0431443,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"104","case-insensitive sort order","runtime (in seconds)","pass",0.0414607,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"105","case-insensitive sort order","runtime (in seconds)","pass",0.0421909,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"106","test-utils.R","runtime (in seconds)","pass",0.0252643,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"107","test-utils.R","runtime (in seconds)","pass",0.0249124,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"108","test-utils.R","runtime (in seconds)","pass",0.0247,"spelling::updat","6c6d22349e499961061acceafc3343ba3ae5a170",2022-07-20 14:32:16
+"109","case-insensitive sort order","runtime (in seconds)","pass",0.0436945,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"110","case-insensitive sort order","runtime (in seconds)","pass",0.0409673,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"111","case-insensitive sort order","runtime (in seconds)","pass",0.0417885,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"112","test-utils.R","runtime (in seconds)","pass",0.0245227,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"113","test-utils.R","runtime (in seconds)","pass",0.0236808,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"114","test-utils.R","runtime (in seconds)","pass",0.0234685,"Add `add = TRUE","6d007853943989d36b0fd6f341a7c0523b41db94",2022-07-20 14:31:46
+"115","case-insensitive sort order","runtime (in seconds)","pass",0.0419218,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"116","case-insensitive sort order","runtime (in seconds)","pass",0.0405128,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"117","case-insensitive sort order","runtime (in seconds)","pass",0.0411467,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"118","test-utils.R","runtime (in seconds)","pass",0.0246973,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"119","test-utils.R","runtime (in seconds)","pass",0.0237483,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"120","test-utils.R","runtime (in seconds)","pass",0.0239146,"Quiet check (#2","30958c15fad90c4dcd592054c7af55157c8cdccd",2022-07-20 14:29:09
+"121","case-insensitive sort order","runtime (in seconds)","pass",0.0440903,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"122","case-insensitive sort order","runtime (in seconds)","pass",0.0422316,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"123","case-insensitive sort order","runtime (in seconds)","pass",0.042786,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"124","test-utils.R","runtime (in seconds)","pass",0.0255838,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"125","test-utils.R","runtime (in seconds)","pass",0.0242175,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"126","test-utils.R","runtime (in seconds)","pass",0.0239621,"Unregister pack","7f4aa1f042e5a17fdf37f522bd2db3181bc7a1e0",2022-07-20 08:56:39
+"127","case-insensitive sort order","runtime (in seconds)","pass",0.042541,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"128","case-insensitive sort order","runtime (in seconds)","pass",0.0405029,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"129","case-insensitive sort order","runtime (in seconds)","pass",0.04188,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"130","test-utils.R","runtime (in seconds)","pass",0.0259728,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"131","test-utils.R","runtime (in seconds)","pass",0.0240344,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"132","test-utils.R","runtime (in seconds)","pass",0.0236104,"Get very latest","4e3b7c39c7c6b26171159f1daa9a2061d753821f",2022-07-19 23:12:15
+"133","case-insensitive sort order","runtime (in seconds)","pass",0.042477,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"134","case-insensitive sort order","runtime (in seconds)","pass",0.0412493,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"135","case-insensitive sort order","runtime (in seconds)","pass",0.04261,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"136","test-utils.R","runtime (in seconds)","pass",0.0238568,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"137","test-utils.R","runtime (in seconds)","pass",0.0235866,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"138","test-utils.R","runtime (in seconds)","pass",0.0245787,"Re-document() i","a987e6168ae21c5bb8fb64b1cf2c8cb1ecd49e5f",2022-07-19 22:43:09
+"139","case-insensitive sort order","runtime (in seconds)","pass",0.0427963,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"140","case-insensitive sort order","runtime (in seconds)","pass",0.0415284,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"141","case-insensitive sort order","runtime (in seconds)","pass",0.0418027,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"142","test-utils.R","runtime (in seconds)","pass",0.0259975,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"143","test-utils.R","runtime (in seconds)","pass",0.025069,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"144","test-utils.R","runtime (in seconds)","pass",0.0254282,"Re-document","46927116ce087023c480f9b9dd20bd6daa09491c",2022-07-19 22:38:39
+"145","case-insensitive sort order","runtime (in seconds)","pass",0.040972,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"146","case-insensitive sort order","runtime (in seconds)","pass",0.0393039,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"147","case-insensitive sort order","runtime (in seconds)","pass",0.0402802,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"148","test-utils.R","runtime (in seconds)","pass",0.0247308,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"149","test-utils.R","runtime (in seconds)","pass",0.0236695,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"150","test-utils.R","runtime (in seconds)","pass",0.0243457,"Ignore some stu","199d0a327b6788c60d103052cdde183f22cf0513",2022-07-19 22:36:44
+"151","case-insensitive sort order","runtime (in seconds)","pass",0.0422004,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"152","case-insensitive sort order","runtime (in seconds)","pass",0.0410487,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"153","case-insensitive sort order","runtime (in seconds)","pass",0.0416073,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"154","test-utils.R","runtime (in seconds)","pass",0.0250115,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"155","test-utils.R","runtime (in seconds)","pass",0.0240659,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"156","test-utils.R","runtime (in seconds)","pass",0.0243799,"RStudio update","07e30b5cbb8e985c1eb0d1bc1115814039735793",2022-06-16 13:43:38
+"157","case-insensitive sort order","runtime (in seconds)","pass",0.0430753,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"158","case-insensitive sort order","runtime (in seconds)","pass",0.0416329,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"159","case-insensitive sort order","runtime (in seconds)","pass",0.0422447,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"160","test-utils.R","runtime (in seconds)","pass",0.0258057,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"161","test-utils.R","runtime (in seconds)","pass",0.0242591,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"162","test-utils.R","runtime (in seconds)","pass",0.0250104,"Eliminate depre","12d04ad699d79dbdb1a7eb70555d5a0ac2d4a2f7",2022-06-16 13:43:33
+"163","case-insensitive sort order","runtime (in seconds)","pass",0.0428532,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"164","case-insensitive sort order","runtime (in seconds)","pass",0.0417974,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"165","case-insensitive sort order","runtime (in seconds)","pass",0.0423587,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"166","test-utils.R","runtime (in seconds)","pass",0.0254476,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"167","test-utils.R","runtime (in seconds)","pass",0.024515,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"168","test-utils.R","runtime (in seconds)","pass",0.0250627,"Fix redundant `","8ef16cfc09394db710740d25e48cfc958e804f15",2022-06-08 14:05:25
+"169","case-insensitive sort order","runtime (in seconds)","pass",0.042766,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"170","case-insensitive sort order","runtime (in seconds)","pass",0.0404324,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"171","case-insensitive sort order","runtime (in seconds)","pass",0.0429175,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"172","test-utils.R","runtime (in seconds)","pass",0.0253284,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"173","test-utils.R","runtime (in seconds)","pass",0.0242179,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"174","test-utils.R","runtime (in seconds)","pass",0.0249734,"Tweak documenta","dd960cc75c5650d7fb9fbfed33fb1b57cc0de758",2022-05-28 21:26:12
+"175","case-insensitive sort order","runtime (in seconds)","pass",0.0425038,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"176","case-insensitive sort order","runtime (in seconds)","pass",0.0403748,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"177","case-insensitive sort order","runtime (in seconds)","pass",0.0412446,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"178","test-utils.R","runtime (in seconds)","pass",0.0259701,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"179","test-utils.R","runtime (in seconds)","pass",0.0245108,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"180","test-utils.R","runtime (in seconds)","pass",0.0254205,"Rbuildignore .l","697e8d353634373314d04966fe8b8ee46c39983e",2022-05-25 17:46:10
+"181","case-insensitive sort order","runtime (in seconds)","pass",0.0426232,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"182","case-insensitive sort order","runtime (in seconds)","pass",0.0411625,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"183","case-insensitive sort order","runtime (in seconds)","pass",0.0429698,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"184","test-utils.R","runtime (in seconds)","pass",0.0253642,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"185","test-utils.R","runtime (in seconds)","pass",0.0243087,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"186","test-utils.R","runtime (in seconds)","pass",0.025185,"Add linting act","a995da4d997c44fb8e528c13240f541a1e0819c9",2022-05-25 13:58:48
+"187","case-insensitive sort order","runtime (in seconds)","pass",0.042273,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"188","case-insensitive sort order","runtime (in seconds)","pass",0.040482,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"189","case-insensitive sort order","runtime (in seconds)","pass",0.0421273,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"190","test-utils.R","runtime (in seconds)","pass",0.0257987,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"191","test-utils.R","runtime (in seconds)","pass",0.0243217,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"192","test-utils.R","runtime (in seconds)","pass",0.0248569,"R CMD check can","b5d3534d76b4da414dab3b76e6648f7f1c7d7d84",2022-05-24 16:20:03
+"193","case-insensitive sort order","runtime (in seconds)","pass",0.0419271,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"194","case-insensitive sort order","runtime (in seconds)","pass",0.0409621,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"195","case-insensitive sort order","runtime (in seconds)","pass",0.0414347,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"196","test-utils.R","runtime (in seconds)","pass",0.0250924,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"197","test-utils.R","runtime (in seconds)","pass",0.0238467,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"198","test-utils.R","runtime (in seconds)","pass",0.0242319,"Improve `build_","322b6b8edf03a9ccf3dc4ac403e08a4a869fd60a",2022-05-24 16:18:53
+"199","case-insensitive sort order","runtime (in seconds)","pass",0.0428346,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"200","case-insensitive sort order","runtime (in seconds)","pass",0.0413347,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"201","case-insensitive sort order","runtime (in seconds)","pass",0.0416278,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"202","test-utils.R","runtime (in seconds)","pass",0.0237998,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"203","test-utils.R","runtime (in seconds)","pass",0.0235033,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"204","test-utils.R","runtime (in seconds)","pass",0.0234404,"Use cli for mes","7cc2bdf74cbae90233fa6c84f221631d1876598d",2022-05-24 16:02:34
+"205","case-insensitive sort order","runtime (in seconds)","pass",0.0422418,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"206","case-insensitive sort order","runtime (in seconds)","pass",0.0416688,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"207","case-insensitive sort order","runtime (in seconds)","pass",0.0423584,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"208","test-utils.R","runtime (in seconds)","pass",0.0256897,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"209","test-utils.R","runtime (in seconds)","pass",0.0246486,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"210","test-utils.R","runtime (in seconds)","pass",0.0239172,"Mildly improve ","c2637bdb675563e408cb432bc7587c7bdbef06e0",2022-05-23 15:32:57
+"211","case-insensitive sort order","runtime (in seconds)","pass",0.0416565,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"212","case-insensitive sort order","runtime (in seconds)","pass",0.040784,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"213","case-insensitive sort order","runtime (in seconds)","pass",0.0408417,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"214","test-utils.R","runtime (in seconds)","pass",0.0240295,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"215","test-utils.R","runtime (in seconds)","pass",0.0239434,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"216","test-utils.R","runtime (in seconds)","pass",0.0237194,"Convert to test","047c91f5b97ca72e6eda283e6c01cdf28180d1bb",2022-05-21 23:23:50
+"217","case-insensitive sort order","runtime (in seconds)","pass",0.0402479,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"218","case-insensitive sort order","runtime (in seconds)","pass",0.0392572,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"219","case-insensitive sort order","runtime (in seconds)","pass",0.0393878,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"220","test-utils.R","runtime (in seconds)","pass",0.0157401,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"221","test-utils.R","runtime (in seconds)","pass",0.0143255,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"222","test-utils.R","runtime (in seconds)","pass",0.0142849,"Don't automatic","371b9cccf6b2574e33e43dbc1d7ec9b192e4974e",2022-05-21 14:49:42
+"223","case-insensitive sort order","runtime (in seconds)","pass",0.0411775,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"224","case-insensitive sort order","runtime (in seconds)","pass",0.0393587,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"225","case-insensitive sort order","runtime (in seconds)","pass",0.041235,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"226","test-utils.R","runtime (in seconds)","pass",0.0147728,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"227","test-utils.R","runtime (in seconds)","pass",0.0141787,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"228","test-utils.R","runtime (in seconds)","pass",0.014178,"Fix missing arg","72b76021ac150083107cb71221dfddaa58901da1",2022-05-21 14:38:31
+"229","case-insensitive sort order","runtime (in seconds)","pass",0.0385205,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"230","case-insensitive sort order","runtime (in seconds)","pass",0.0373095,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"231","case-insensitive sort order","runtime (in seconds)","pass",0.0395098,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"232","test-utils.R","runtime (in seconds)","pass",0.0148325,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"233","test-utils.R","runtime (in seconds)","pass",0.0136256,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"234","test-utils.R","runtime (in seconds)","pass",0.0136032,"Update RStudio","6a7d3d86fda8ad3b06ee4959bdfa29cad3b2d942",2022-05-21 14:34:12
+"235","case-insensitive sort order","runtime (in seconds)","pass",0.0405658,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"236","case-insensitive sort order","runtime (in seconds)","pass",0.0388721,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"237","case-insensitive sort order","runtime (in seconds)","pass",0.0409899,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"238","test-utils.R","runtime (in seconds)","pass",0.014924,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"239","test-utils.R","runtime (in seconds)","pass",0.0141473,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"240","test-utils.R","runtime (in seconds)","pass",0.0143817,"Delegate to the","bb217060157d03d97ddf34579c0a403f8a5f9a42",2022-05-16 17:49:59
+"241","case-insensitive sort order","runtime (in seconds)","pass",0.041601,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"242","case-insensitive sort order","runtime (in seconds)","pass",0.0391547,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"243","case-insensitive sort order","runtime (in seconds)","pass",0.0394849,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"244","test-utils.R","runtime (in seconds)","pass",0.0142766,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"245","test-utils.R","runtime (in seconds)","pass",0.013825,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"246","test-utils.R","runtime (in seconds)","pass",0.0131348,"Re-document()","647db331c40e34697bfbf069a4a7d8b18b25cc12",2022-05-16 17:49:23
+"247","case-insensitive sort order","runtime (in seconds)","pass",0.0401549,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"248","case-insensitive sort order","runtime (in seconds)","pass",0.0394701,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"249","case-insensitive sort order","runtime (in seconds)","pass",0.0402322,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"250","test-utils.R","runtime (in seconds)","pass",0.0147216,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"251","test-utils.R","runtime (in seconds)","pass",0.014051,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"252","test-utils.R","runtime (in seconds)","pass",0.0137701,"technical edit;","06a01ddc3af62fedbeb9180e01fe46f549ccbeda",2022-04-25 19:12:14
+"253","case-insensitive sort order","runtime (in seconds)","pass",0.0405877,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"254","case-insensitive sort order","runtime (in seconds)","pass",0.0389971,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"255","case-insensitive sort order","runtime (in seconds)","pass",0.0403795,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"256","test-utils.R","runtime (in seconds)","pass",0.0153126,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"257","test-utils.R","runtime (in seconds)","pass",0.0142368,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"258","test-utils.R","runtime (in seconds)","pass",0.0141743,"skip_if_not() o","56875888a507eedb1a92d820ff8c899e065e653c",2022-03-14 17:08:54
+"259","case-insensitive sort order","runtime (in seconds)","pass",0.0421205,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"260","case-insensitive sort order","runtime (in seconds)","pass",0.0414835,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"261","case-insensitive sort order","runtime (in seconds)","pass",0.0412528,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"262","test-utils.R","runtime (in seconds)","pass",0.0159475,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"263","test-utils.R","runtime (in seconds)","pass",0.0145859,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"264","test-utils.R","runtime (in seconds)","pass",0.0146382,"Add useful deve","575ae4e8d2cd445e89e3eed569cf97905bc024de",2022-03-02 18:40:18
+"265","case-insensitive sort order","runtime (in seconds)","pass",0.0399074,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"266","case-insensitive sort order","runtime (in seconds)","pass",0.0385248,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"267","case-insensitive sort order","runtime (in seconds)","pass",0.0399511,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"268","test-utils.R","runtime (in seconds)","pass",0.0146518,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"269","test-utils.R","runtime (in seconds)","pass",0.0139956,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"270","test-utils.R","runtime (in seconds)","pass",0.0134894,"Bump minimum ve","15026da1836af9d977b5cb9b7d1d5fb89fc07e6b",2022-02-23 18:51:56
+"271","case-insensitive sort order","runtime (in seconds)","pass",0.0416951,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"272","case-insensitive sort order","runtime (in seconds)","pass",0.040487,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"273","case-insensitive sort order","runtime (in seconds)","pass",0.0416879,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"274","test-utils.R","runtime (in seconds)","pass",0.0158336,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"275","test-utils.R","runtime (in seconds)","pass",0.014624,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"276","test-utils.R","runtime (in seconds)","pass",0.014695,"Update GHA","8b3e89a201a2b707c41fe07b34c94c8b67e4784c",2022-02-23 17:05:24
+"277","case-insensitive sort order","runtime (in seconds)","pass",0.0417898,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"278","case-insensitive sort order","runtime (in seconds)","pass",0.0391982,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"279","case-insensitive sort order","runtime (in seconds)","pass",0.0394935,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"280","test-utils.R","runtime (in seconds)","pass",0.0153139,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"281","test-utils.R","runtime (in seconds)","pass",0.0143397,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"282","test-utils.R","runtime (in seconds)","pass",0.0139729,"Adjust to new R","93072ca590dd39b121146ff724cbd0035a51153a",2022-02-23 16:36:39
+"283","case-insensitive sort order","runtime (in seconds)","pass",0.0413292,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"284","case-insensitive sort order","runtime (in seconds)","pass",0.0400477,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"285","case-insensitive sort order","runtime (in seconds)","pass",0.0407846,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"286","test-utils.R","runtime (in seconds)","pass",0.0151118,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"287","test-utils.R","runtime (in seconds)","pass",0.0135978,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"288","test-utils.R","runtime (in seconds)","pass",0.0135498,"Stop asking abo","41280ac4b7d2c3f4aacec35e6c7d1de195de8418",2022-01-22 02:17:13
+"289","case-insensitive sort order","runtime (in seconds)","pass",0.0411264,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"290","case-insensitive sort order","runtime (in seconds)","pass",0.0402627,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"291","case-insensitive sort order","runtime (in seconds)","pass",0.040216,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"292","test-utils.R","runtime (in seconds)","pass",0.0161184,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"293","test-utils.R","runtime (in seconds)","pass",0.0146104,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"294","test-utils.R","runtime (in seconds)","pass",0.0145662,"Fixed typo (#24","e2f25cd69031c8d2099106baed894df4109cb7a4",2022-01-14 18:18:00
+"295","case-insensitive sort order","runtime (in seconds)","pass",0.0390726,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"296","case-insensitive sort order","runtime (in seconds)","pass",0.0390508,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"297","case-insensitive sort order","runtime (in seconds)","pass",0.0398099,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"298","test-utils.R","runtime (in seconds)","pass",0.0157516,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"299","test-utils.R","runtime (in seconds)","pass",0.0145058,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"300","test-utils.R","runtime (in seconds)","pass",0.0142851,"Fix typo in doc","6c4bd54ae04f17da9d500473feffc537b198a618",2022-01-07 20:40:35
+"301","case-insensitive sort order","runtime (in seconds)","pass",0.0417043,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"302","case-insensitive sort order","runtime (in seconds)","pass",0.0394751,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"303","case-insensitive sort order","runtime (in seconds)","pass",0.0420121,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"304","test-utils.R","runtime (in seconds)","pass",0.0164165,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"305","test-utils.R","runtime (in seconds)","pass",0.0143198,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"306","test-utils.R","runtime (in seconds)","pass",0.0142625,"`devtools::test","a999c84c03a8c955bf1bc81b2ae3f6d8e1c7110b",2021-12-22 03:47:20
+"307","case-insensitive sort order","runtime (in seconds)","pass",0.0422174,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"308","case-insensitive sort order","runtime (in seconds)","pass",0.039357,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"309","case-insensitive sort order","runtime (in seconds)","pass",0.0407533,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"310","test-utils.R","runtime (in seconds)","pass",0.0163506,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"311","test-utils.R","runtime (in seconds)","pass",0.0148384,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"312","test-utils.R","runtime (in seconds)","pass",0.0154046,"Change default ","91a8758d8227be3eda0e6875dc434ffedd7608d2",2021-12-07 18:59:18
+"313","case-insensitive sort order","runtime (in seconds)","pass",0.0416486,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"314","case-insensitive sort order","runtime (in seconds)","pass",0.0403908,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"315","case-insensitive sort order","runtime (in seconds)","pass",0.0417845,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"316","test-utils.R","runtime (in seconds)","pass",0.0149529,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"317","test-utils.R","runtime (in seconds)","pass",0.0143215,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"318","test-utils.R","runtime (in seconds)","pass",0.0144073,"Switch to pkgdo","559442c1aadaf68741dd4efd1bb4e1cb3811772c",2021-12-03 23:01:48
+"319","case-insensitive sort order","runtime (in seconds)","pass",0.0403816,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"320","case-insensitive sort order","runtime (in seconds)","pass",0.0389938,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"321","case-insensitive sort order","runtime (in seconds)","pass",0.0394329,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"322","test-utils.R","runtime (in seconds)","pass",0.0155126,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"323","test-utils.R","runtime (in seconds)","pass",0.0139543,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"324","test-utils.R","runtime (in seconds)","pass",0.0138189,"Update GHA","41457ce217775e1a31685d7cb8639fc565bfaded",2021-12-03 20:24:21
+"325","case-insensitive sort order","runtime (in seconds)","pass",0.0408095,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"326","case-insensitive sort order","runtime (in seconds)","pass",0.0400258,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"327","case-insensitive sort order","runtime (in seconds)","pass",0.0404866,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"328","test-utils.R","runtime (in seconds)","pass",0.015444,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"329","test-utils.R","runtime (in seconds)","pass",0.0142848,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"330","test-utils.R","runtime (in seconds)","pass",0.014376,"Switch to tidyt","7055ff18fb031e9114b08bb6bcd3bda369d2dd67",2021-12-03 20:22:05
+"331","case-insensitive sort order","runtime (in seconds)","pass",0.0398621,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"332","case-insensitive sort order","runtime (in seconds)","pass",0.0388661,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"333","case-insensitive sort order","runtime (in seconds)","pass",0.038653,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"334","test-utils.R","runtime (in seconds)","pass",0.0149101,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"335","test-utils.R","runtime (in seconds)","pass",0.0136314,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"336","test-utils.R","runtime (in seconds)","pass",0.0134843,"::shrug::","f4d4f6f9fbd743b0d089394537160c3bcbf1de75",2021-12-03 20:15:53
+"337","case-insensitive sort order","runtime (in seconds)","pass",0.0412734,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"338","case-insensitive sort order","runtime (in seconds)","pass",0.0393404,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"339","case-insensitive sort order","runtime (in seconds)","pass",0.039892,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"340","test-utils.R","runtime (in seconds)","pass",0.0149391,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"341","test-utils.R","runtime (in seconds)","pass",0.0135227,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"342","test-utils.R","runtime (in seconds)","pass",0.0135812,"Increment versi","2cbedca29d42f124bf24a3d41d8c6e0a16d72e68",2021-11-30 14:26:31
+"343","case-insensitive sort order","runtime (in seconds)","pass",0.0404338,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"344","case-insensitive sort order","runtime (in seconds)","pass",0.039111,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"345","case-insensitive sort order","runtime (in seconds)","pass",0.0406121,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"346","test-utils.R","runtime (in seconds)","pass",0.0148448,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"347","test-utils.R","runtime (in seconds)","pass",0.0141543,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"348","test-utils.R","runtime (in seconds)","pass",0.01365,"Increment versi","52772f1136671b6b0357f33b191779a6d520d859",2021-11-29 16:01:29
+"349","case-insensitive sort order","runtime (in seconds)","pass",0.0411845,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"350","case-insensitive sort order","runtime (in seconds)","pass",0.0387118,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"351","case-insensitive sort order","runtime (in seconds)","pass",0.0401669,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"352","test-utils.R","runtime (in seconds)","pass",0.014894,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"353","test-utils.R","runtime (in seconds)","pass",0.014276,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"354","test-utils.R","runtime (in seconds)","pass",0.0145747,"no cran comment","52ebdd83dbd5ecf50b75c695174f7883c2ad2a71",2021-11-29 16:00:39
+"355","case-insensitive sort order","runtime (in seconds)","pass",0.0400005,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"356","case-insensitive sort order","runtime (in seconds)","pass",0.0384837,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"357","case-insensitive sort order","runtime (in seconds)","pass",0.0389219,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"358","test-utils.R","runtime (in seconds)","pass",0.0153155,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"359","test-utils.R","runtime (in seconds)","pass",0.0141158,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"360","test-utils.R","runtime (in seconds)","pass",0.0143246,"Remove my email","c893ce4ab180a744f33a97190de656961963e482",2021-11-29 16:00:14
+"361","case-insensitive sort order","runtime (in seconds)","pass",0.0418297,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"362","case-insensitive sort order","runtime (in seconds)","pass",0.0393122,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"363","case-insensitive sort order","runtime (in seconds)","pass",0.0391083,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"364","test-utils.R","runtime (in seconds)","pass",0.015277,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"365","test-utils.R","runtime (in seconds)","pass",0.0143033,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"366","test-utils.R","runtime (in seconds)","pass",0.0142581,"Make jenny the ","69a281afaaaaa820dcc5326592158146616a3f91",2021-11-29 13:45:47
+"367","case-insensitive sort order","runtime (in seconds)","pass",0.0398398,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"368","case-insensitive sort order","runtime (in seconds)","pass",0.036345,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"369","case-insensitive sort order","runtime (in seconds)","pass",0.0377203,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"370","test-utils.R","runtime (in seconds)","pass",0.0147607,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"371","test-utils.R","runtime (in seconds)","pass",0.0134091,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"372","test-utils.R","runtime (in seconds)","pass",0.0136786,"Add check_mac_r","d247d522bcac6144d3da74b935fb7bcd90324746",2021-11-24 16:29:15
+"373","case-insensitive sort order","runtime (in seconds)","pass",0.0393834,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"374","case-insensitive sort order","runtime (in seconds)","pass",0.0388337,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"375","case-insensitive sort order","runtime (in seconds)","pass",0.0392385,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"376","test-utils.R","runtime (in seconds)","pass",0.0152386,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"377","test-utils.R","runtime (in seconds)","pass",0.0140533,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"378","test-utils.R","runtime (in seconds)","pass",0.0140455,"Remove last ves","37fd5d8d3eda3b1a5911c49255bac35094c5a446",2021-11-18 19:02:47
+"379","case-insensitive sort order","runtime (in seconds)","pass",0.0406037,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"380","case-insensitive sort order","runtime (in seconds)","pass",0.0390161,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"381","case-insensitive sort order","runtime (in seconds)","pass",0.0401832,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"382","test-utils.R","runtime (in seconds)","pass",0.015376,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"383","test-utils.R","runtime (in seconds)","pass",0.014094,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"384","test-utils.R","runtime (in seconds)","pass",0.0140816,"Add maintenance","e9ae103cd30ac44e7abd73ab397c9641fe001b47",2021-11-18 18:53:12
+"385","case-insensitive sort order","runtime (in seconds)","pass",0.039991,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"386","case-insensitive sort order","runtime (in seconds)","pass",0.0383667,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"387","case-insensitive sort order","runtime (in seconds)","pass",0.0400676,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"388","test-utils.R","runtime (in seconds)","pass",0.0150829,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"389","test-utils.R","runtime (in seconds)","pass",0.0136314,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"390","test-utils.R","runtime (in seconds)","pass",0.0138388,"Remove internal","6e30ec244508ac76fbe63d661fefa2925f5eb584",2021-10-15 12:34:55
+"391","case-insensitive sort order","runtime (in seconds)","pass",0.0403654,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"392","case-insensitive sort order","runtime (in seconds)","pass",0.037999,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"393","case-insensitive sort order","runtime (in seconds)","pass",0.0392977,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"394","test-utils.R","runtime (in seconds)","pass",0.0153307,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"395","test-utils.R","runtime (in seconds)","pass",0.0143184,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"396","test-utils.R","runtime (in seconds)","pass",0.014221,"Update GitHub A","4069c0d55d4eec72577d10475baed2d006ea09cc",2021-10-14 16:05:59
+"397","case-insensitive sort order","runtime (in seconds)","pass",0.0385011,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"398","case-insensitive sort order","runtime (in seconds)","pass",0.0381987,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"399","case-insensitive sort order","runtime (in seconds)","pass",0.0393671,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"400","test-utils.R","runtime (in seconds)","pass",0.0143402,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"401","test-utils.R","runtime (in seconds)","pass",0.0139235,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"402","test-utils.R","runtime (in seconds)","pass",0.0132115,"Update codecov ","7806a28fc395e9e76fe875f50afbf1838c27f9a4",2021-10-14 15:35:46
+"403","case-insensitive sort order","runtime (in seconds)","pass",0.0401727,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"404","case-insensitive sort order","runtime (in seconds)","pass",0.0386056,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"405","case-insensitive sort order","runtime (in seconds)","pass",0.039694,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"406","test-utils.R","runtime (in seconds)","pass",0.0154631,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"407","test-utils.R","runtime (in seconds)","pass",0.0141923,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"408","test-utils.R","runtime (in seconds)","pass",0.0136225,"Put more info i","f6824fbe6533c87e88712d405f320d2750221177",2021-10-14 15:26:56
+"409","case-insensitive sort order","runtime (in seconds)","pass",0.0399628,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"410","case-insensitive sort order","runtime (in seconds)","pass",0.0382059,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"411","case-insensitive sort order","runtime (in seconds)","pass",0.0393305,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"412","test-utils.R","runtime (in seconds)","pass",0.0150923,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"413","test-utils.R","runtime (in seconds)","pass",0.0138905,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"414","test-utils.R","runtime (in seconds)","pass",0.0139066,"Increment versi","12f6ba1600bb8ddbf2eea39381f0b1d5c5dd5839",2021-10-13 20:46:07
+"415","case-insensitive sort order","runtime (in seconds)","pass",0.0397642,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"416","case-insensitive sort order","runtime (in seconds)","pass",0.0381526,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"417","case-insensitive sort order","runtime (in seconds)","pass",0.0380552,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"418","test-utils.R","runtime (in seconds)","pass",0.0153221,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"419","test-utils.R","runtime (in seconds)","pass",0.0142636,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"420","test-utils.R","runtime (in seconds)","pass",0.0138313,"Skip tests on C","e10658f59a73d2f4de847f2b9318bb9573b4577d",2021-08-18 13:01:35
+"421","case-insensitive sort order","runtime (in seconds)","pass",0.0390469,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"422","case-insensitive sort order","runtime (in seconds)","pass",0.0385006,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"423","case-insensitive sort order","runtime (in seconds)","pass",0.0394932,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"424","test-utils.R","runtime (in seconds)","pass",0.0151413,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"425","test-utils.R","runtime (in seconds)","pass",0.0139099,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"426","test-utils.R","runtime (in seconds)","pass",0.013889,"Remove github_p","6664faffa42ea829da42718560fe7cc87a8e4d25",2021-08-17 19:40:00
+"427","case-insensitive sort order","runtime (in seconds)","pass",0.040508,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"428","case-insensitive sort order","runtime (in seconds)","pass",0.0403534,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"429","case-insensitive sort order","runtime (in seconds)","pass",0.0406705,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"430","test-utils.R","runtime (in seconds)","pass",0.0148964,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"431","test-utils.R","runtime (in seconds)","pass",0.0139695,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"432","test-utils.R","runtime (in seconds)","pass",0.0140698,"Remove github_p","867b1f502f7db3157de8ac1bcafd427e20023c2a",2021-08-17 19:40:00
+"433","case-insensitive sort order","runtime (in seconds)","pass",0.0400372,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"434","case-insensitive sort order","runtime (in seconds)","pass",0.0379513,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"435","case-insensitive sort order","runtime (in seconds)","pass",0.0399347,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"436","test-utils.R","runtime (in seconds)","pass",0.0156665,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"437","test-utils.R","runtime (in seconds)","pass",0.0143659,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"438","test-utils.R","runtime (in seconds)","pass",0.014323,"Increment versi","6bcaf8839b90c051f9ab8f1ad676a3c1d29fac93",2021-08-17 19:40:00
+"439","case-insensitive sort order","runtime (in seconds)","pass",0.0407784,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"440","case-insensitive sort order","runtime (in seconds)","pass",0.0386345,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"441","case-insensitive sort order","runtime (in seconds)","pass",0.0400003,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"442","test-utils.R","runtime (in seconds)","pass",0.0157609,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"443","test-utils.R","runtime (in seconds)","pass",0.0143729,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"444","test-utils.R","runtime (in seconds)","pass",0.0145154,"Check for file ","88afadcedbebcd7c926c03ee6624f112aaef0e44",2021-07-20 15:14:47
+"445","case-insensitive sort order","runtime (in seconds)","pass",0.0413959,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"446","case-insensitive sort order","runtime (in seconds)","pass",0.0396281,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"447","case-insensitive sort order","runtime (in seconds)","pass",0.039988,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"448","test-utils.R","runtime (in seconds)","pass",0.0158919,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"449","test-utils.R","runtime (in seconds)","pass",0.0146873,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"450","test-utils.R","runtime (in seconds)","pass",0.0146341,"New addin for r","6d6ade5273a05d843e966cf4bac1cbeca990a5a5",2021-06-16 14:03:40
+"451","case-insensitive sort order","runtime (in seconds)","pass",0.0393952,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"452","case-insensitive sort order","runtime (in seconds)","pass",0.0386992,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"453","case-insensitive sort order","runtime (in seconds)","pass",0.0403322,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"454","test-utils.R","runtime (in seconds)","pass",0.0152514,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"455","test-utils.R","runtime (in seconds)","pass",0.0145515,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"456","test-utils.R","runtime (in seconds)","pass",0.0145967,"Update workflow","0dcdc9a6fcaa552312ac2614f5d9e4062b91afdb",2021-06-04 16:37:21
+"457","case-insensitive sort order","runtime (in seconds)","pass",0.0412833,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"458","case-insensitive sort order","runtime (in seconds)","pass",0.0394081,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"459","case-insensitive sort order","runtime (in seconds)","pass",0.0402426,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"460","test-utils.R","runtime (in seconds)","pass",0.0152722,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"461","test-utils.R","runtime (in seconds)","pass",0.0142961,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"462","test-utils.R","runtime (in seconds)","pass",0.0143742,"Skip check_man ","c757284eb2454930b1ca985f8689a3ceb0e1259c",2021-06-03 20:21:52
+"463","case-insensitive sort order","runtime (in seconds)","pass",0.041066,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"464","case-insensitive sort order","runtime (in seconds)","pass",0.0388774,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"465","case-insensitive sort order","runtime (in seconds)","pass",0.0391222,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"466","test-utils.R","runtime (in seconds)","pass",0.015111,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"467","test-utils.R","runtime (in seconds)","pass",0.0141778,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"468","test-utils.R","runtime (in seconds)","pass",0.0141555,"Pass the format","5582c2e3f4ada3f257d0d2a078b4f06d48aa93b8",2021-06-03 17:50:49
+"469","case-insensitive sort order","runtime (in seconds)","pass",0.0406617,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"470","case-insensitive sort order","runtime (in seconds)","pass",0.0394308,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"471","case-insensitive sort order","runtime (in seconds)","pass",0.0396471,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"472","test-utils.R","runtime (in seconds)","pass",0.0148139,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"473","test-utils.R","runtime (in seconds)","pass",0.0142316,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"474","test-utils.R","runtime (in seconds)","pass",0.0142068,"Suppress potent","a3dcecf6800a74d63841e4b8f3a2868795d64c96",2021-06-03 15:00:03
+"475","case-insensitive sort order","runtime (in seconds)","pass",0.0402348,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"476","case-insensitive sort order","runtime (in seconds)","pass",0.0389344,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"477","case-insensitive sort order","runtime (in seconds)","pass",0.0400991,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"478","test-utils.R","runtime (in seconds)","pass",0.0147803,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"479","test-utils.R","runtime (in seconds)","pass",0.0142618,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"480","test-utils.R","runtime (in seconds)","pass",0.0141405,"Use tools::chec","1e4b9f88a030af3125dcb41f1f1d5433fbc5ef4c",2021-06-01 12:11:12
+"481","case-insensitive sort order","runtime (in seconds)","pass",0.0392559,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"482","case-insensitive sort order","runtime (in seconds)","pass",0.0373965,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"483","case-insensitive sort order","runtime (in seconds)","pass",0.0382452,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"484","test-utils.R","runtime (in seconds)","pass",0.0147057,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"485","test-utils.R","runtime (in seconds)","pass",0.0139435,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"486","test-utils.R","runtime (in seconds)","pass",0.0138061,"NEWS","2dbdfb06451cb7c5a0547f8a3e3c7332b4605cc1",2021-05-28 13:20:06
+"487","case-insensitive sort order","runtime (in seconds)","pass",0.0386178,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"488","case-insensitive sort order","runtime (in seconds)","pass",0.0382214,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"489","case-insensitive sort order","runtime (in seconds)","pass",0.0388064,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"490","test-utils.R","runtime (in seconds)","pass",0.014652,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"491","test-utils.R","runtime (in seconds)","pass",0.0135803,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"492","test-utils.R","runtime (in seconds)","pass",0.0135141,"Normalize the p","11a1a621d8af811bfb680e10870d31ca003d48e7",2021-05-28 13:18:17
+"493","case-insensitive sort order","runtime (in seconds)","pass",0.0391535,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"494","case-insensitive sort order","runtime (in seconds)","pass",0.0381407,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"495","case-insensitive sort order","runtime (in seconds)","pass",0.040503,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"496","test-utils.R","runtime (in seconds)","pass",0.0144766,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"497","test-utils.R","runtime (in seconds)","pass",0.0135751,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"498","test-utils.R","runtime (in seconds)","pass",0.013837,"Use defer to se","abe0c424c2620e8375f09acf0f84a41dc1beef54",2021-05-06 12:15:15
+"499","case-insensitive sort order","runtime (in seconds)","pass",0.0382836,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"500","case-insensitive sort order","runtime (in seconds)","pass",0.0372012,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"501","case-insensitive sort order","runtime (in seconds)","pass",0.0387337,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"502","test-utils.R","runtime (in seconds)","pass",0.0153826,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"503","test-utils.R","runtime (in seconds)","pass",0.0143282,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"504","test-utils.R","runtime (in seconds)","pass",0.0141277,"Increment versi","445e9efe5ba29c6954523ed8303d0180f2d526e1",2021-05-06 12:14:25
+"505","case-insensitive sort order","runtime (in seconds)","pass",0.0393184,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"506","case-insensitive sort order","runtime (in seconds)","pass",0.0384996,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"507","case-insensitive sort order","runtime (in seconds)","pass",0.0393182,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"508","test-utils.R","runtime (in seconds)","pass",0.0149586,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"509","test-utils.R","runtime (in seconds)","pass",0.0135944,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"510","test-utils.R","runtime (in seconds)","pass",0.0137693,"Increment versi","887498d6ee6e1dec2653ae5f79635f6d30a30eb5",2021-05-05 17:50:30
+"511","case-insensitive sort order","runtime (in seconds)","pass",0.0408586,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"512","case-insensitive sort order","runtime (in seconds)","pass",0.0385431,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"513","case-insensitive sort order","runtime (in seconds)","pass",0.0393947,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"514","test-utils.R","runtime (in seconds)","pass",0.0148437,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"515","test-utils.R","runtime (in seconds)","pass",0.0138238,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"516","test-utils.R","runtime (in seconds)","pass",0.0137386,"Update CRAN com","18a487b0b71707308c653e781946a012e2340769",2021-05-05 17:49:57
+"517","case-insensitive sort order","runtime (in seconds)","pass",0.0393513,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"518","case-insensitive sort order","runtime (in seconds)","pass",0.0396122,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"519","case-insensitive sort order","runtime (in seconds)","pass",0.0381756,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"520","test-utils.R","runtime (in seconds)","pass",0.0152309,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"521","test-utils.R","runtime (in seconds)","pass",0.014474,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"522","test-utils.R","runtime (in seconds)","pass",0.0141926,"Re-rorder news ","33d9f76fe3f1d2380d38ee959cd609225d8925f2",2021-05-05 17:44:54
+"523","case-insensitive sort order","runtime (in seconds)","pass",0.0382775,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"524","case-insensitive sort order","runtime (in seconds)","pass",0.0374473,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"525","case-insensitive sort order","runtime (in seconds)","pass",0.0391401,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"526","test-utils.R","runtime (in seconds)","pass",0.0158265,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"527","test-utils.R","runtime (in seconds)","pass",0.0142781,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"528","test-utils.R","runtime (in seconds)","pass",0.0140463,"Remove jsonlite","8d8437e439a9c61ac97fdfe3555e906dc81d73fc",2021-05-05 14:37:50
+"529","case-insensitive sort order","runtime (in seconds)","pass",0.0412541,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"530","case-insensitive sort order","runtime (in seconds)","pass",0.0386102,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"531","case-insensitive sort order","runtime (in seconds)","pass",0.0397291,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"532","test-utils.R","runtime (in seconds)","pass",0.0153278,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"533","test-utils.R","runtime (in seconds)","pass",0.0140595,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"534","test-utils.R","runtime (in seconds)","pass",0.0136319,"Execute the add","f5dc632e7c1e1c6f1743a7288d51cfe3e9a89d18",2021-05-05 12:41:41
+"535","case-insensitive sort order","runtime (in seconds)","pass",0.0396704,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"536","case-insensitive sort order","runtime (in seconds)","pass",0.0381803,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"537","case-insensitive sort order","runtime (in seconds)","pass",0.0394732,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"538","test-utils.R","runtime (in seconds)","pass",0.0149371,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"539","test-utils.R","runtime (in seconds)","pass",0.0142385,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"540","test-utils.R","runtime (in seconds)","pass",0.0141503,"Change the defa","b9ff989a7eca34165e0cdc4561cb923b13e3fe7b",2021-04-29 19:06:32
+"541","case-insensitive sort order","runtime (in seconds)","pass",0.0393854,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"542","case-insensitive sort order","runtime (in seconds)","pass",0.0382666,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"543","case-insensitive sort order","runtime (in seconds)","pass",0.037989,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"544","test-utils.R","runtime (in seconds)","pass",0.0151065,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"545","test-utils.R","runtime (in seconds)","pass",0.0140496,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"546","test-utils.R","runtime (in seconds)","pass",0.0135522,"Don't open proj","4025c0417c6bf602fa00258ffc7c91fc7607659d",2021-04-28 16:35:18
+"547","case-insensitive sort order","runtime (in seconds)","pass",0.0383442,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"548","case-insensitive sort order","runtime (in seconds)","pass",0.0379528,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"549","case-insensitive sort order","runtime (in seconds)","pass",0.0393483,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"550","test-utils.R","runtime (in seconds)","pass",0.0153581,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"551","test-utils.R","runtime (in seconds)","pass",0.0147418,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"552","test-utils.R","runtime (in seconds)","pass",0.0146448,"Pass path to di","d4510b2030cfd4b3039d12b63884b503dcafe420",2021-04-19 12:26:27
+"553","case-insensitive sort order","runtime (in seconds)","pass",0.0425445,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"554","case-insensitive sort order","runtime (in seconds)","pass",0.0416441,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"555","case-insensitive sort order","runtime (in seconds)","pass",0.0414201,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"556","test-utils.R","runtime (in seconds)","pass",0.0157589,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"557","test-utils.R","runtime (in seconds)","pass",0.0141933,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"558","test-utils.R","runtime (in seconds)","pass",0.0139797,"Fix 'folder' ar","96a54f5acdfa6b1f4ecff6f67bf3744e4953dd8e",2021-04-12 12:59:04
+"559","case-insensitive sort order","runtime (in seconds)","pass",0.042113,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"560","case-insensitive sort order","runtime (in seconds)","pass",0.040881,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"561","case-insensitive sort order","runtime (in seconds)","pass",0.0408922,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"562","test-utils.R","runtime (in seconds)","pass",0.0160102,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"563","test-utils.R","runtime (in seconds)","pass",0.0141851,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"564","test-utils.R","runtime (in seconds)","pass",0.0145643,"Update RStudio ","1aaaa99d68ab46c20811670857c6b12abe905c22",2021-04-09 13:16:06
+"565","case-insensitive sort order","runtime (in seconds)","pass",0.0390984,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"566","case-insensitive sort order","runtime (in seconds)","pass",0.0380031,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"567","case-insensitive sort order","runtime (in seconds)","pass",0.0385628,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"568","test-utils.R","runtime (in seconds)","pass",0.0156624,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"569","test-utils.R","runtime (in seconds)","pass",0.0146715,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"570","test-utils.R","runtime (in seconds)","pass",0.0147785,"Increment versi","aad9f61aaac153664dfb844d47bb84b0f6670107",2021-04-09 13:13:51
+"571","case-insensitive sort order","runtime (in seconds)","pass",0.0408501,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"572","case-insensitive sort order","runtime (in seconds)","pass",0.038079,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"573","case-insensitive sort order","runtime (in seconds)","pass",0.0387957,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"574","test-utils.R","runtime (in seconds)","pass",0.0145527,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"575","test-utils.R","runtime (in seconds)","pass",0.0143696,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"576","test-utils.R","runtime (in seconds)","pass",0.0146011,"Skip vignette t","62781a8c8eba6427fd0d991e25095280d5957b60",2021-04-06 20:04:54
+"577","case-insensitive sort order","runtime (in seconds)","pass",0.0464401,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"578","case-insensitive sort order","runtime (in seconds)","pass",0.0448533,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"579","case-insensitive sort order","runtime (in seconds)","pass",0.0462755,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"580","test-utils.R","runtime (in seconds)","pass",0.015221,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"581","test-utils.R","runtime (in seconds)","pass",0.014706,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"582","test-utils.R","runtime (in seconds)","pass",0.0142631,"Increment versi","8acc34df9e83698a02941100eb85402e73683ede",2021-04-06 18:27:50
+"583","case-insensitive sort order","runtime (in seconds)","pass",0.0420543,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"584","case-insensitive sort order","runtime (in seconds)","pass",0.0394862,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"585","case-insensitive sort order","runtime (in seconds)","pass",0.0407893,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"586","test-utils.R","runtime (in seconds)","pass",0.0151055,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"587","test-utils.R","runtime (in seconds)","pass",0.0137074,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"588","test-utils.R","runtime (in seconds)","pass",0.01379,"Skip tests if n","d0070ce0ed4c48a7986d81773ea89f7365e6d7b2",2021-04-06 18:23:04
+"589","case-insensitive sort order","runtime (in seconds)","pass",0.0406952,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"590","case-insensitive sort order","runtime (in seconds)","pass",0.0386698,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"591","case-insensitive sort order","runtime (in seconds)","pass",0.0400065,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"592","test-utils.R","runtime (in seconds)","pass",0.0154484,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"593","test-utils.R","runtime (in seconds)","pass",0.0144603,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"594","test-utils.R","runtime (in seconds)","pass",0.0144273,"Skip load test ","1c2dad919f320d5bd7aae99c1e809f80e3dbaecf",2021-04-06 18:15:06
+"595","case-insensitive sort order","runtime (in seconds)","pass",0.0408726,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"596","case-insensitive sort order","runtime (in seconds)","pass",0.0395031,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"597","case-insensitive sort order","runtime (in seconds)","pass",0.0404872,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"598","test-utils.R","runtime (in seconds)","pass",0.0153775,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"599","test-utils.R","runtime (in seconds)","pass",0.0143987,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"600","test-utils.R","runtime (in seconds)","pass",0.0144767,"Use https link","e0613067e98ef00294cd461a7f5b2a859b2930ff",2021-04-06 18:05:37
+"601","case-insensitive sort order","runtime (in seconds)","pass",0.040334,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"602","case-insensitive sort order","runtime (in seconds)","pass",0.0392983,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"603","case-insensitive sort order","runtime (in seconds)","pass",0.0377696,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"604","test-utils.R","runtime (in seconds)","pass",0.0153965,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"605","test-utils.R","runtime (in seconds)","pass",0.0141088,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"606","test-utils.R","runtime (in seconds)","pass",0.0139769,"Re-format news ","e1b5fdf9c60886de4786168423cb9b77cef4ec15",2021-04-06 17:40:56
+"607","case-insensitive sort order","runtime (in seconds)","pass",0.0400637,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"608","case-insensitive sort order","runtime (in seconds)","pass",0.0377562,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"609","case-insensitive sort order","runtime (in seconds)","pass",0.0400381,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"610","test-utils.R","runtime (in seconds)","pass",0.0152866,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"611","test-utils.R","runtime (in seconds)","pass",0.0142754,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"612","test-utils.R","runtime (in seconds)","pass",0.0143374,"Re-document aft","1bf9a8a935c3e0517523ea64aac102b1153084d9",2021-04-06 17:34:43
+"613","case-insensitive sort order","runtime (in seconds)","pass",0.0397569,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"614","case-insensitive sort order","runtime (in seconds)","pass",0.0395185,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"615","case-insensitive sort order","runtime (in seconds)","pass",0.0395249,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"616","test-utils.R","runtime (in seconds)","pass",0.0144893,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"617","test-utils.R","runtime (in seconds)","pass",0.0136888,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"618","test-utils.R","runtime (in seconds)","pass",0.013798,"No longer need ","7bff37246caf6f6dba68f7bda73f613827298aef",2021-04-06 16:17:05
+"619","case-insensitive sort order","runtime (in seconds)","pass",0.0407747,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"620","case-insensitive sort order","runtime (in seconds)","pass",0.0408453,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"621","case-insensitive sort order","runtime (in seconds)","pass",0.0410259,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"622","test-utils.R","runtime (in seconds)","pass",0.0151159,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"623","test-utils.R","runtime (in seconds)","pass",0.0146452,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"624","test-utils.R","runtime (in seconds)","pass",0.0144087,"Fix spelling","a14fb35eb0730e4116279f22d68331ba75057708",2021-04-06 16:14:10
+"625","case-insensitive sort order","runtime (in seconds)","pass",0.0418401,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"626","case-insensitive sort order","runtime (in seconds)","pass",0.0395065,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"627","case-insensitive sort order","runtime (in seconds)","pass",0.0407376,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"628","test-utils.R","runtime (in seconds)","pass",0.0155201,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"629","test-utils.R","runtime (in seconds)","pass",0.0142279,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"630","test-utils.R","runtime (in seconds)","pass",0.0141973,"Update to the l","37f8c015b701521ffae4b6d0ed3af6e5ff04e045",2021-04-06 16:12:48
+"631","case-insensitive sort order","runtime (in seconds)","pass",0.0405175,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"632","case-insensitive sort order","runtime (in seconds)","pass",0.0383469,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"633","case-insensitive sort order","runtime (in seconds)","pass",0.040091,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"634","test-utils.R","runtime (in seconds)","pass",0.0157992,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"635","test-utils.R","runtime (in seconds)","pass",0.0146718,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"636","test-utils.R","runtime (in seconds)","pass",0.0141724,"Update reverse ","64ffed55d554ee39e9dbe4567130b18ff4e25a67",2021-03-31 15:32:03
+"637","case-insensitive sort order","runtime (in seconds)","pass",0.0404427,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"638","case-insensitive sort order","runtime (in seconds)","pass",0.0410999,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"639","case-insensitive sort order","runtime (in seconds)","pass",0.0436169,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"640","test-utils.R","runtime (in seconds)","pass",0.014409,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"641","test-utils.R","runtime (in seconds)","pass",0.0138882,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"642","test-utils.R","runtime (in seconds)","pass",0.0138061,"Update to lates","46a9d8b3082b4a1b3b1e1f89ed95209f19ff2a5d",2021-03-31 12:47:28
+"643","case-insensitive sort order","runtime (in seconds)","pass",0.0411547,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"644","case-insensitive sort order","runtime (in seconds)","pass",0.0396577,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"645","case-insensitive sort order","runtime (in seconds)","pass",0.0396332,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"646","test-utils.R","runtime (in seconds)","pass",0.0153868,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"647","test-utils.R","runtime (in seconds)","pass",0.0142898,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"648","test-utils.R","runtime (in seconds)","pass",0.0141946,"Extra parens an","59218b760f3abdc54b8f88833971744dca2fc44c",2021-03-31 12:35:54
+"649","case-insensitive sort order","runtime (in seconds)","pass",0.0406967,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"650","case-insensitive sort order","runtime (in seconds)","pass",0.03907,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"651","case-insensitive sort order","runtime (in seconds)","pass",0.0398755,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"652","test-utils.R","runtime (in seconds)","pass",0.0157797,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"653","test-utils.R","runtime (in seconds)","pass",0.0145521,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"654","test-utils.R","runtime (in seconds)","pass",0.01427,"Change director","09f7c65ed5beccb87c9f86724b5a8f57a7c10675",2021-03-31 12:33:16
+"655","case-insensitive sort order","runtime (in seconds)","pass",0.0421451,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
+"656","case-insensitive sort order","runtime (in seconds)","pass",0.0388801,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
+"657","case-insensitive sort order","runtime (in seconds)","pass",0.0406106,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
+"658","test-utils.R","runtime (in seconds)","pass",0.0152502,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
+"659","test-utils.R","runtime (in seconds)","pass",0.0137976,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
+"660","test-utils.R","runtime (in seconds)","pass",0.0141054,"Add fs to the w","b36e766c123a82d96e6161ef75f0c2eb51b72b34",2021-03-31 12:33:16
