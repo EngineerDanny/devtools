@@ -4,7 +4,7 @@
 ## TEST 1
 Rperform::plot_metrics(
     test_path = "tests/testthat/test-utils.R",
-    metric = "time", num_commits = 100,
+    metric = "time", num_commits = 110,
     save_data = TRUE,
     save_plots = TRUE,
     total_width_in = 30
