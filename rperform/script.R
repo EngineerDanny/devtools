@@ -9,6 +9,20 @@ Rperform::plot_metrics(
     save_plots = TRUE,
     total_width_in = 30
 )
+Rperform::plot_metrics(
+    test_path = "tests/testthat/test-install.R",
+    metric = "time", num_commits = 110,
+    save_data = TRUE,
+    save_plots = TRUE,
+    total_width_in = 30
+)
+Rperform::plot_metrics(
+    test_path = "tests/testthat/test-reload.R",
+    metric = "time", num_commits = 110,
+    save_data = TRUE,
+    save_plots = TRUE,
+    total_width_in = 30
+)
 
 Rperform::plot_metrics(
     test_path = "tests/testthat/test-check.R",
